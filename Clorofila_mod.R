@@ -12,6 +12,12 @@ library("ggplot2")
 library("ncdf4")
 library("rasterVis")
 
+
+###PRUEBA PARA GITHUB
+#############
+
+
+
 ################Me ubico en el directorio donde los datos de LANDSAT 8
 setwd("~/viaje_Belgica/ProyectoINA/Taller_PROSAT_Algoritmo_semiemp_Parte_1")
 
